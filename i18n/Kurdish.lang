@@ -1,0 +1,17 @@
+{
+    "sProcessing":   "چاوەرێکە زانیاریەکان لە رێگان...",
+    "sLengthMenu":   " ریز نیشانبدە _MENU_ ",
+    "sZeroRecords":  "ھیچ زانیاریەک نەدۆزرایەوە",
+    "sInfo":         "نیشاندراوە لە  _START_ بۆ _END_ لە کۆی _TOTAL_ ریز",
+    "sInfoEmpty":    "خشتەکەکە بەتاڵە",
+    "sInfoFiltered": "(پالێوراوە لە کۆی _MAX_ ریز)",
+    "sInfoPostFix":  "",
+    "sSearch":       "بگەرێ:",
+    "sUrl":          "",
+    "oPaginate": {
+        "sFirst":    "یەکەم",
+        "sPrevious": "رابردوو",
+        "sNext":     "دواتر",
+        "sLast":     "کۆتایی"
+    }
+}
